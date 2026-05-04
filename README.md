@@ -126,6 +126,14 @@ npm install
 npm run dev
 ```
 
+## Live Demo
+
+Frontend (User Interface):
+https://deep-fake-detection-sable.vercel.app
+
+Backend API (Swagger Docs):
+https://deepfake-detection-spwc.onrender.com/docs
+
 
 ## Future Enhancements
 
